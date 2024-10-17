@@ -70,9 +70,10 @@ The dataset includes various attributes of bike buyers, such as:
 - **Color Palette:** A muted, professional color palette (green, yellow, and dark grey) ensures clarity and readability without overwhelming the viewer.
 
 ---
-## Contact (https://www.linkedin.com/in/falguni-dwivedi-906a76323/)
+## Contact 
+- **Linkedin** (https://www.linkedin.com/in/falguni-dwivedi-906a76323/)
 
-Thank you for visiting the repository!
+#### Thank you for visiting the repository!
 
 
 
